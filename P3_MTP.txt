@@ -18,7 +18,8 @@ KNUM2: 4
 Questão 2:
 
 1o: 42.000000
-2o: 42.000000                           3o: 42.000000
+2o: 42.000000
+3o: 42.000000
 
 Questão 3a:
 
@@ -32,7 +33,9 @@ Media [6.016239 0.626018 3.057108] = 3.233122
 Questão 4:
 
 > Oswald: MAT 978
-: 18 anos;                                                  > Leonardo: MAT 005                                         : 19 anos;
+: 18 anos;                                      
+> Leonardo: MAT 005                                    
+: 19 anos;
 > Ermengardo: MAT 034
 : 101 anos;
 > Juriemo: MAT 075
