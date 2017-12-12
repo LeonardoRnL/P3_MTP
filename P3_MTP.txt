@@ -1,0 +1,43 @@
+Questão 1:
+
+MAT0: 11711EAU005
+KANO0: 3
+KCUR0: 1
+KNUM0: 6
+
+MAT1: 10021EEL034
+KANO1: 5
+KCUR1: 4
+KNUM1: 8
+
+MAT2: 10011EBI075
+KANO2: 4
+KCUR2: 2
+KNUM2: 4
+
+Questão 2:
+
+1o: 42.000000
+2o: 42.000000                           3o: 42.000000
+
+Questão 3a:
+
+Codigo: 481
+
+Questão 3b:
+
+Matricula: 481
+Media [6.016239 0.626018 3.057108] = 3.233122
+
+Questão 4:
+
+> Oswald: MAT 978
+: 18 anos;                                                  > Leonardo: MAT 005                                         : 19 anos;
+> Ermengardo: MAT 034
+: 101 anos;
+> Juriemo: MAT 075
+: 12 anos;
+> Silvia: MAT 697
+: 28 anos;
+> Mickey: MAT 575
+: 21 anos;
